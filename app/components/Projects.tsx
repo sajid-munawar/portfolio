@@ -15,14 +15,14 @@ const projects = [
     color: "from-emerald-500 to-teal-500",
   },
   {
-    title: "Suvalgyk English",
+    title: "Talkwed",
     description:
-      "A recipe generation application in English that uses OpenAI's GPT-3 to generate recipes based on user inputs.",
-    image: "/Images/suvalgyk_eng.png",
-    tags: ["Next.js", "TypeScript", "TailwindCSS", "FAST API", "PostgreSQL"],
-    demoUrl: "https://eggstracheap.com/",
+      "Talkwed's event management UI offers a responsive, multi-role interface with robust components and streamlined workflows.",
+    image: "/Images/talkwed.png",
+    tags: ["Next.js", "TailwindCSS", "NextUI"],
+    demoUrl: "https://talkwed.vercel.app/",
     githubUrl: "#",
-    color: "from-emerald-500 to-teal-500",
+    color: "from-purple-500 to-pink-500",
   },
   {
     title: "MakeAIR",
@@ -35,24 +35,14 @@ const projects = [
     color: "from-blue-500 to-indigo-500",
   },
   {
-    title: "Talkwed",
+    title: "Inlights AI",
     description:
-      "Talkwed's event management UI offers a responsive, multi-role interface with robust components and streamlined workflows.",
-    image: "/Images/talkwed.png",
-    tags: ["Next.js", "TailwindCSS", "NextUI"],
-    demoUrl: "https://talkwed.vercel.app/",
+      "Built a cutting-edge website for a startup revolutionizing traffic management with AI and machine learning.",
+    image: "/Images/inlights.png",
+    tags: ["Next.js", "TailwindCSS", "Shadcn UI"],
+    demoUrl: "https://www.inlights.ai",
     githubUrl: "#",
-    color: "from-purple-500 to-pink-500",
-  },
-  {
-    title: "Circuline",
-    description:
-      "A full-stack exhibition web app with AI-generated images, database management, vertical UI, and automated emails.",
-    image: "/Images/circuline.png",
-    tags: ["Next.js", "OpenAI", "PostgreSQL", "TailwindCSS"],
-    demoUrl: "https://circuline.vercel.app/",
-    githubUrl: "#",
-    color: "from-purple-500 to-pink-500",
+    color: "from-orange-500 to-yellow-500",
   },
 ];
 
