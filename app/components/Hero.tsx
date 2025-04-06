@@ -26,7 +26,7 @@ export default function Hero() {
               transition={{ delay: 0.3 }}
               className="inline-block px-4 py-1.5 bg-purple-500/5 dark:bg-purple-500/10 text-purple-600 dark:text-purple-400 rounded-full text-sm font-medium mb-6"
             >
-              Full Stack Developer
+              Front End Developer
             </motion.span>
 
             <div className="space-y-4">
@@ -40,9 +40,8 @@ export default function Hero() {
 
             {/* Description */}
             <p className="text-gray-600 dark:text-gray-300 text-lg lg:text-xl mt-8 mb-10 leading-relaxed max-w-2xl">
-              A passionate Full Stack Developer specializing in building
-              exceptional digital experiences that drive business growth and
-              user engagement.
+              Front End Developer focused on building clean, responsive, and
+              user-friendly interfaces.
             </p>
 
             {/* CTA Buttons */}

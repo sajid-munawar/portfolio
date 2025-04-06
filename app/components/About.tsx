@@ -73,8 +73,7 @@ export default function About() {
             <div className="space-y-6 text-gray-600 dark:text-gray-300">
               <p>
                 Passionate web developer crafting modern, responsive websites
-                and web applications. Skilled in front-end and back-end
-                development, delivering high-quality digital solutions.
+                and web applications. Skilled in web application development, delivering high-quality digital solutions.
                 Let&apos;s bring your ideas to life with clean and efficient
                 code!
               </p>
@@ -89,12 +88,9 @@ export default function About() {
                   "React",
                   "Next.js",
                   "TypeScript",
-                  "Node.js",
                   "TailwindCSS",
                   "PostgreSQL",
-                  "MongoDB",
-                  "AWS",
-                  "Docker",
+                  "Git & GitHub",
                 ].map((skill) => (
                   <motion.span
                     key={skill}
