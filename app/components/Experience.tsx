@@ -7,7 +7,7 @@ const experiences = [
     title: "Frontend Web Developer",
     company: "Ace-on Techonology",
     period: "May 2024 - Feb 2025",
-    description: "Developed responsive web applications using React and Next.js. Implemented performance optimizations resulting in 40% faster page load times.",
+    description: "Developed responsive web applications using React and Next.js, implementing performance optimizations that significantly improved page load times.",
     skills: ["React", "Next.js", "TypeScript", "TailwindCSS"],
     icon: (
       <svg
@@ -29,7 +29,7 @@ const experiences = [
     title: "Frontend Web Developer",
     company: "Inlights",
     period: "Jan 2024 - Apr 2024",
-    description: "Developed and maintained client websites using modern JavaScript frameworks. Collaborated with design team to implement pixel-perfect UI components.",
+    description: "Developed and maintained client websites using modern JavaScript frameworks. Collaborated with the design team to implement pixel-perfect UI components.",
     skills: ["React", "JavaScript", "CSS3", "Styled Components"],
     icon: (
       <svg
